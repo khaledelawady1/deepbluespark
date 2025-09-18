@@ -127,7 +127,7 @@ footer {
   background: #fff;
 }
 
-/* زر الدخول أو التسجيل */
+/* زر الLogin أو التسجيل */
 .card form button[type="submit"] {
   width: 100%;
   padding: 0.7rem;
